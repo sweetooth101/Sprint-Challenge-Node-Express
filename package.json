@@ -1,0 +1,21 @@
+{
+  "name": "Sprint-Challenge-Node-Express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sweetooth101/Sprint-Challenge-Node-Express.git",
+  "author": "Victor G <victorgordian103@gmail.com>",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "helmet": "^3.15.0",
+    "knex": "^0.16.3",
+    "morgan": "^1.9.1",
+    "sqlite3": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
